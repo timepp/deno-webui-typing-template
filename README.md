@@ -7,6 +7,8 @@ This template enumerates all windows on Windows OS and shows them in the UI to d
 ![screenshot](doc/screenshot.png)
 To run it, clone the repo and run: `run.bat` on Windows, or invoking tsc and deno manually on other platforms.
 
+(pre-requisite: deno, tsc)
+
 ## What's improved?
 
 You define API interfaces between the web client and the backend script in `api.ts`:
