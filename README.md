@@ -5,7 +5,7 @@ This template brings typescript and type bindings to the web(UI) part.
 
 This template enumerates all windows on Windows OS and shows them in the UI to demonstrate typed-communications between frontend and backend.
 ![screenshot](doc/screenshot.png)
-To run it, clone the repo and run: `run.bat` on Windows, or invoking tsc and deno manually on other platforms.
+To run it, clone the repo and run: `run.bat`.
 
 (pre-requisite: deno, tsc)
 
